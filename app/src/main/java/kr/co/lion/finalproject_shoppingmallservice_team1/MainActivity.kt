@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("test1234", "채명훈")
         Log.d("test1234", "이병진")
         Log.d("test1234", "정영준")
-        Log.d("test1234", "정명1재")
+        Log.d("test1234", "정명재")
     }
 }
